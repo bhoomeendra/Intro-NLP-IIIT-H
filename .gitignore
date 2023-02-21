@@ -1,5 +1,6 @@
 *.ipynb_checkpoints*
 *wandb*
 Embedding/*
+*__pycache__*
 
 
